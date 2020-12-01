@@ -1,5 +1,5 @@
 {
-    "IP":"phone IP or hostname",
+    "IP":"192.168.50.242",
     "user":"root",
-    "password":"password"
+    "password":"alpine"
 }
